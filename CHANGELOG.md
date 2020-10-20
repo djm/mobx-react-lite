@@ -1,5 +1,11 @@
 # mobx-react-lite
 
+## 3.1.0
+
+### Minor Changes
+
+-   [`a0e5fea`](https://github.com/mobxjs/mobx-react-lite/commit/a0e5feaeede68b0bac035f60bf2a7edff3fa1269) [#329](https://github.com/mobxjs/mobx-react-lite/pull/329) Thanks [@RoystonS](https://github.com/RoystonS)! - expose `clearTimers` function to tidy up background timers, allowing test frameworks such as Jest to exit immediately
+
 ## 3.0.1
 
 ### Patch Changes
